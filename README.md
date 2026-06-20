@@ -170,26 +170,6 @@ Main areas covered:
 Confidentiality note:
 Any screenshots or dashboards included for this project use synthetic data and are provided only to demonstrate system architecture, workflow design, scoring logic, and interface concepts. Client-sensitive information is excluded.
 
-Repository Structure
-
-.
-├── README.md
-├── imc-prosperity-4/
-│   └── writeup.pdf
-├── xauusd-stochastic-modelling/
-│   └── writeup.pdf
-├── hessian-geometry-stability/
-│   └── writeup.pdf
-├── snow-commodity-macro/
-│   └── writeup.md
-├── topological-market-network/
-│   └── writeup.md
-├── eigen-autonomous-research/
-│   └── writeup.md
-├── cascade-liquidation-world-models/
-│   └── notes.md
-└── ai-devops-sales-ops/
-    └── sanitized-summary.md
 
 The exact folder structure may change as the repository is cleaned and expanded.
 
@@ -218,8 +198,5 @@ It is designed to show:
 * the continuity of my work across AI, quantitative systems, simulation, and applied automation.
 
 Author
-
-Moses Lua
-AI engineer, independent technical researcher, and founder working across AI systems, quantitative modelling, simulation, telemetry, and applied automation infrastructure.
 
 GitHub: moseslua
